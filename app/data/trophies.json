@@ -438,6 +438,7 @@
       "grade": "bronze",
       "hidden": false,
       "kind": "collectible",
+      "missable": true,
       "status": "cleared",
       "guide": "MISSABLE — this is the only trophy in the game that can be locked out. Meditate at all 18 meditation spots across 10 locations. The first meditation happens only in Chapter 1 at Jason's house: after the mission Down to Earth, talk to Lucia in the kitchen in the morning, follow her to the balcony and choose Accept. That balcony meditation becomes permanently unavailable after Chapter 1, so do it before the chapter ends. Whether it is strictly required for the trophy is unconfirmed — it adds +1 to the counter but is not marked as a normal spot — so do it anyway to be safe. You can meditate with both Jason and Lucia at the same spot, which counts twice, and the 100% checklist only needs 15 of the 18.",
       "steps": [
